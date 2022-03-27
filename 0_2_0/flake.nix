@@ -11,6 +11,7 @@
   inputs.src-neel-0_2_0.ref   = "refs/tags/0.2.0";
   inputs.src-neel-0_2_0.owner = "Niminem";
   inputs.src-neel-0_2_0.repo  = "Neel";
+  inputs.src-neel-0_2_0.dir   = "";
   inputs.src-neel-0_2_0.type  = "github";
   
   inputs."jester".owner = "nim-nix-pkgs";
