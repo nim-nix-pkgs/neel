@@ -11,7 +11,6 @@
   inputs.src-neel-master.ref   = "refs/heads/master";
   inputs.src-neel-master.owner = "Niminem";
   inputs.src-neel-master.repo  = "Neel";
-  inputs.src-neel-master.dir   = "";
   inputs.src-neel-master.type  = "github";
   
   inputs."jester".owner = "nim-nix-pkgs";
