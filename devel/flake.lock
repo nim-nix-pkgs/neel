@@ -157,7 +157,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "jester": "jester",
         "nixpkgs": "nixpkgs",
-        "src-neel-master": "src-neel-master",
+        "src-neel-devel": "src-neel-devel",
         "ws": "ws"
       }
     },
@@ -229,19 +229,19 @@
         "type": "github"
       }
     },
-    "src-neel-master": {
+    "src-neel-devel": {
       "flake": false,
       "locked": {
-        "lastModified": 1624506126,
-        "narHash": "sha256-EJ+Ts9HpcvEWtkRre3eo4TqhBrCzYENgDKj4cpKFLVw=",
+        "lastModified": 1617929892,
+        "narHash": "sha256-h75L1D9FWHuFtiqKO5D2joR4eX3/yZCtiBrfwPGD4CE=",
         "owner": "Niminem",
         "repo": "Neel",
-        "rev": "3e635e2dd8dbca39fa412df5f047fc476b2c8cef",
+        "rev": "bb349ff181e3c84a8225dfbac593bcb413ffea71",
         "type": "github"
       },
       "original": {
         "owner": "Niminem",
-        "ref": "refs/heads/master",
+        "ref": "refs/heads/devel",
         "repo": "Neel",
         "type": "github"
       }
